@@ -1,2 +1,2 @@
-# Python-Score-Checker
-A simple script that asks you to enter a score and it will tell you the grade you received!
+# Python-Comp
+A compilation of my many different python scripts
